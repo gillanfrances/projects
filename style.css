@@ -12,6 +12,7 @@ body {
     --bs-navbar-brand-color: #fff !important;
     --bs-navbar-brand-hover-color: #e2dcdc !important;
     justify-content: center !important;
+    padding-left: 1em;
     --bs-navbar-toggler-icon-bg: url(data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%2833, 37, 41, 0.75%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e);
 }
 
@@ -123,4 +124,5 @@ h2, h3, h4, h5, h6 {
     --bs-btn-disabled-border-color: #fff;
 
 }
+
 
