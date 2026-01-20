@@ -19,7 +19,14 @@ body {
 a {
     text-decoration: none;
     color: #6F3826;
+    display: inline-block;
+    border-bottom: 1px dotted #6F3826;
 }
+
+a:hover {
+    background-color: #EEEBDD;
+    transition: background-color 0.5s ease;
+} 
 
 .nav-link active {
     font-weight: 800 !important;
@@ -124,5 +131,6 @@ h2, h3, h4, h5, h6 {
     --bs-btn-disabled-border-color: #fff;
 
 }
+
 
 
