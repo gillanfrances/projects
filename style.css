@@ -132,6 +132,7 @@ h2, h3, h4, h5, h6 {
 
 }
 
-
-
-
+.badge-primary {
+    background-color: #EEEBDD !important;
+    color: #000 !important;
+}
